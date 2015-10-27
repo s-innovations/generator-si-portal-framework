@@ -1,0 +1,17 @@
+{
+  "name": "generator-siPortal-yeoman",
+  "version": "1.0.0",
+  "description": "A Yeoman Project Generator for a project that is using the S-Innovations.PortalFramework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files":["generators/vs15-empty"],
+  "author": "Poul Kjeldager Sørensen",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  }
+}
